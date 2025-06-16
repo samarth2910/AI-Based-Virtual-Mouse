@@ -28,4 +28,4 @@ Pynput
 
 ## 🖼️ Demo
 
-![Virtual Mouse Demo](https://github.com/samarth2910/AI-Based-Virtual-Mouse/blob/main/screenshot_1086.png?raw=true)
+![Virtual Mouse Demo](https://github.com/samarth2910/AI-Based-Virtual-Mouse/blob/main/screenshot_5191.png?raw=true)
