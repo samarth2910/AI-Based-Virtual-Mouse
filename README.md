@@ -25,3 +25,7 @@ OpenCV
 MediaPipe
 PyAutoGUI
 Pynput
+
+## 🖼️ Demo
+
+![Virtual Mouse Demo](https://github.com/samarth2910/AI-Based-Virtual-Mouse/blob/main/screenshot_1086.png?raw=true)
